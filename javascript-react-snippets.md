@@ -544,4 +544,4 @@
     "prefix": "rp",
     "body": "return new Promise((resolve, reject) => {\n\t${0}\n})"
   }
-}
+} 
